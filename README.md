@@ -11,7 +11,7 @@ Analyze e-commerce sales performance to uncover key trends and insights.
 Identify the factors driving customer purchases and cancellations.
 Create a visually engaging and interactive dashboard for easy decision-making.
 
-##🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Excel:
 Data cleaning and preparation (VLOOKUP, SUMIF, etc.).
